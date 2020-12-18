@@ -42,3 +42,41 @@ feel free to check out [my video page](https://vimeo.com/xiaoyaliang)!
 
     ###### This is an <h6> tag
     
+# Syntax Guide
+
+Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com or in your own text files.
+
+## Lists
+
+#### unordered
+
+    * meat
+      * red
+      * white
+    * vegetable
+      * green leaves
+      * root
+    * staple
+      * brown
+      * white
+    
+## blockquotes
+
+    Mahatma Gandhi said,
+    > Happiness is when what you think, what you say, 
+    > and what you do are in harmony.
+    
+## inline code
+
+    I think you should use an
+    `<addr>` element here instead.
+
+## syntax highlighting
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
