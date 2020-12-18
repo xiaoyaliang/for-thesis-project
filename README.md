@@ -36,7 +36,7 @@ feel free to check out [my video page](https://vimeo.com/xiaoyaliang)!
     
 ## I made up a second header?
 
-        ## This is an <h2> tag
+    ## This is an <h2> tag
 
 ###### I made up a 6th header?
 
