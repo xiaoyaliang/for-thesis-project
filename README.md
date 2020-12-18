@@ -28,17 +28,17 @@ feel free to check out [my video page](https://vimeo.com/xiaoyaliang)!
 
 **5. let's test out and practice syntax guide examples**
 
-    [Here is the link](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+[Here is the link](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
     
-# This is an <h1> tag
+    # This is an <h1> tag
     
-# I make up this file
+# I made up a header
     
-## This is an <h2> tag
+    ## This is an <h2> tag
     
-## I need to make another one, what's the difference between h1 and h2?
+## I made up a second header?
 
-###### This is an <h6> tag
+    ###### This is an <h6> tag
     
-###### what's the meaning of h6?
+###### I made up a 6th header?
     
