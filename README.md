@@ -30,15 +30,15 @@ feel free to check out [my video page](https://vimeo.com/xiaoyaliang)!
 
 [Here is the link](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
     
-    # This is an <h1> tag
-    
 # I made up a header
     
-    ## This is an <h2> tag
+    # This is an <h1> tag
     
 ## I made up a second header?
 
-    ###### This is an <h6> tag
-    
+        ## This is an <h2> tag
+
 ###### I made up a 6th header?
+
+    ###### This is an <h6> tag
     
