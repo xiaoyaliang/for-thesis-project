@@ -18,6 +18,7 @@
 
 _the underline only works when you type anything from the very beginning_
 
-feel free to check out [my video page]! (https://vimeo.com/xiaoyaliang)
+feel free to check out [my video page!](https://vimeo.com/xiaoyaliang)
 
+feel free to check out [my video page](https://vimeo.com/xiaoyaliang)!
 
