@@ -22,3 +22,6 @@ feel free to check out [my video page!](https://vimeo.com/xiaoyaliang)
 
 feel free to check out [my video page](https://vimeo.com/xiaoyaliang)!
 
+    notes: keep in mind of the nuance above.
+    
+**4. how to keep _italic_ format and indent at the same time?**
