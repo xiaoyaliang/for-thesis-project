@@ -14,6 +14,10 @@
     
     _It seems matter here_
 
-**3. now I see**
+**3. try new markdown formats below**
 
 _the underline only works when you type anything from the very beginning_
+
+feel free to check out [my video page]! (https://vimeo.com/xiaoyaliang)
+
+
